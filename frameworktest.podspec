@@ -30,6 +30,7 @@ a longer description of testing framework creation...
 
   s.ios.deployment_target = '8.0'
 
+  # s.source_files = '/Users/jordancampbell/Atlas/scratch/frameworktest/frameworktest/Classes/**/*'
   s.source_files = 'frameworktest/Classes/**/*'
 
   # s.resource_bundles = {

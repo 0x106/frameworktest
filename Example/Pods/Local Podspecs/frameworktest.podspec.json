@@ -1,8 +1,8 @@
 {
   "name": "frameworktest",
   "version": "0.1.0",
-  "summary": "A short description of frameworktest.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "testing framework creation",
+  "description": "a longer description of testing framework creation...",
   "homepage": "https://github.com/Jordan-Campbell/frameworktest",
   "license": {
     "type": "MIT",
