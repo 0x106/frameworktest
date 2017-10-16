@@ -1,0 +1,22 @@
+{
+  "name": "frameworktest",
+  "version": "0.1.0",
+  "summary": "A short description of frameworktest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jordan-Campbell/frameworktest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jordan-Campbell": "jordan@jordancampbell.org"
+  },
+  "source": {
+    "git": "https://github.com/Jordan-Campbell/frameworktest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "frameworktest/Classes/**/*"
+}

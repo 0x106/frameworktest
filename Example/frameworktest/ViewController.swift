@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import frameworktest // exposes class ftest
 
 class ViewController: UIViewController {
 
